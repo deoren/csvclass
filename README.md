@@ -2,6 +2,14 @@
 
 A copy of the C++ CSV parsing class by Mayukh Bose
 
+This code was found years ago while I was actively
+trying to learn C++. I've kept it around and occasionally
+reviewed it whenever I've considered picking C++ back
+up for use.
+
+Perhaps one day I'll do something useful with it, but
+for now I'll keep it to remind me of those earlier days.
+
 ## Copyright
 
 Copyright (c) 2001, Mayukh Bose
